@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Arkanoid_v2.Ball">
+    <Position X="12.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAAQAAACAABgAAAAAQCAAQAAgIAgAISACIAAgAAAg=</HashCode>
+      <FileName>Ball.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Arkanoid_v2.AccelerateBall">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>AccelerateBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.Block">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACQAAAAAAAAAABAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.BluePaddle">
+    <Position X="20.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BluePaddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.Bonus">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAQAAAAABAAAABAAAAAwAAAgAIAAgA=</HashCode>
+      <FileName>Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.Coins">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAARAAAAAAAAAAAABAAAgAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Coins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.DataLoader">
+    <Position X="10" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQAAAAACAAAAAIAIIIAAIAAAGEAABAAAAAIAAAQAAg=</HashCode>
+      <FileName>DataLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.ExpandPaddle">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpandPaddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.GameEngine">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJJAoKIIAHAEAEAKAgQQhAhAABkpAggtgJVUIBRAAFA=</HashCode>
+      <FileName>GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.GreenPaddle">
+    <Position X="16.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAEAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GreenPaddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.LevelMenager">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAUAoCIAEgAgAgEAgACIkgBQQAgAEABEQAEBAiWE=</HashCode>
+      <FileName>LevelMenager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.Object">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAgAAAAAQIAAAABAIAgAACACAAAAAAIA=</HashCode>
+      <FileName>Object.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Arkanoid_v2.Paddle">
+    <Position X="18.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAIAgABABAAAEAAAIAAAGAAgAAAAAAAgIIIAAgA=</HashCode>
+      <FileName>Paddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.PaddleChooser">
+    <Position X="22.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCQAAAAoAAAABAgAAQAAAHAgEAAAAgAAAAAQAAAACCA=</HashCode>
+      <FileName>PaddleChooser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.RedPaddle">
+    <Position X="20.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAIAAAAAAAEAAAAACAAAAQABAAQAAAAAA=</HashCode>
+      <FileName>RedPaddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.ReverseControl">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReverseControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.Shop">
+    <Position X="24.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cERAAAAIAIAAAAEQIAAACCigAIEAIgAAAAAQA4AACSA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.ShortenPaddle">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShortenPaddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.SlowBall">
+    <Position X="21.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAA=</HashCode>
+      <FileName>SlowBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.SuperBall">
+    <Position X="23.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQABAAoAAAACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>SuperBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid_v2.YellowPaddle">
+    <Position X="16.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>YellowPaddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

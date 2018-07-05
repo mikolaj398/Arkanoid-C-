@@ -1,0 +1,19 @@
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\csfml-audio-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\csfml-graphics-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\csfml-system-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\csfml-window-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\libsndfile-1.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\openal32.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\OpenTK.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\Arkanoid v2.exe.config
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\Arkanoid v2.exe
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\Arkanoid v2.pdb
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\obj\Debug\Arkanoid v2.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\obj\Debug\Arkanoid v2.exe
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\obj\Debug\Arkanoid v2.pdb
+C:\Users\Mikołaj\source\repos\Arkanoid v2\Arkanoid v2\obj\Debug\Arkanoid v2.csprojResolveAssemblyReference.cache
